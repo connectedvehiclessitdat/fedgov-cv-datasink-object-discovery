@@ -1,0 +1,20 @@
+{
+    "dialogId": 161,
+    "receiptId": "receipt1",
+    "sequenceId": 3,
+    "groupId": 1,
+    "requestId": 1,
+    "serviceId": 2,
+    "destHost": "localhost",
+    "destPort": 10000,
+    "fromForwarder": "true",
+    "certificate": "cert",
+    "nwPos": {
+        "lat": 43.652969118285434,
+        "lon": -85.94707489013672
+    },
+    "sePos": {
+        "lat": 40.96538194577475,
+        "lon": -81.03858947753906
+    }
+}
